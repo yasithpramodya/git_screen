@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/yasithpramodya/git_screen/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" />
 </p>
 
-> ⚠️ The snake image above only appears **after** the GitHub Action (included in this package) runs once. See `SETUP.md` for the 2-minute setup.
+
 
 ---
 
